@@ -1,0 +1,17 @@
+{
+    "name": "stage",
+    "propertyName": "stage.klok",
+    "groupId": 18385,
+    "isSecure": false,
+    "propertyId": 677328,
+    "latestVersionInfo": {
+        "propertyVersion": 1,
+        "updatedByUser": "rfontgra",
+        "updatedDate": "2021-01-13T23:39:01Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "INACTIVE",
+        "productId": "prd_Alta",
+        "ruleFormat": "latest"
+    },
+    "suggestedRuleFormat": "v2020-11-02"
+}

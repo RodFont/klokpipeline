@@ -1,0 +1,17 @@
+{
+    "name": "prod",
+    "propertyName": "prod.klok",
+    "groupId": 18385,
+    "isSecure": false,
+    "propertyId": 677326,
+    "latestVersionInfo": {
+        "propertyVersion": 1,
+        "updatedByUser": "rfontgra",
+        "updatedDate": "2021-01-13T23:38:44Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "INACTIVE",
+        "productId": "prd_Alta",
+        "ruleFormat": "latest"
+    },
+    "suggestedRuleFormat": "v2020-11-02"
+}

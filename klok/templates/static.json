@@ -30,11 +30,7 @@
                 "matchCaseSensitive": false,
                 "matchOperator": "IS_ONE_OF",
                 "values": [
-                    "rtf",
-                    "aiff",
-                    "au",
-                    "avi",
-                    "bin",
+
                     "bmp",
                     "cab",
                     "carb",

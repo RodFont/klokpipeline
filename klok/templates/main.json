@@ -107,7 +107,7 @@
                     "apiKey": "",
                     "bufferSize": "",
                     "configOverride": "",
-                    "enabled": false,
+                    "enabled": true,
                     "requirePci": false,
                     "titleOptional": ""
                 }

@@ -7,7 +7,7 @@
             "options": {
                 "behavior": "MAX_AGE",
                 "mustRevalidate": false,
-                "ttl": "10d"
+                "ttl": "1m"
             }
         },
         {
@@ -30,7 +30,7 @@
                 "matchCaseSensitive": false,
                 "matchOperator": "IS_ONE_OF",
                 "values": [
-                    "aif",
+                    "rtf",
                     "aiff",
                     "au",
                     "avi",

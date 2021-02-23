@@ -30,10 +30,6 @@
                 "matchCaseSensitive": false,
                 "matchOperator": "IS_ONE_OF",
                 "values": [
-                    "avi",
-                    "bin",
-                    "bmp",
-                    "cab",
                     "carb",
                     "cct",
                     "cdf",

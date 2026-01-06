@@ -1,8 +1,0 @@
-[
-    {
-        "cnameFrom": "prod.klok.com",
-        "cnameTo": "prod.klok.edgesuite.net",
-        "cnameType": "EDGE_HOSTNAME",
-        "edgeHostnameId": null
-    }
-]
